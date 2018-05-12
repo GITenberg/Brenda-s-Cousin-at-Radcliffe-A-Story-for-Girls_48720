@@ -1,4 +1,5 @@
 _repo: Brenda-s-Cousin-at-Radcliffe-A-Story-for-Girls_48720
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Stephens, Alice Barber
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1932
     gutenberg_agent_id: '7549'
     url: http://www.gutenberg.org/2009/agents/7549
+covers:
+- cover_type: archival
+  image_path: 48720-h/images/cover.jpg
 creator:
   author:
     agent_name: Reed, Helen Leah
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '37330'
     url: http://www.gutenberg.org/2009/agents/37330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48720#Brenda-s-Cousin-at-Radcliffe-A-Story-for-Girls
 gutenberg_issued: '2015-04-16'
 gutenberg_type: Text
 identifiers:
